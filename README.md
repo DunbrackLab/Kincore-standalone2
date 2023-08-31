@@ -5,6 +5,8 @@ $git clone https://github.com/DunbrackLab/Kincore-standalone2
 
 $cd Kincore-standalone2
 
+(or "cd Kincore-standalone2-main" if you downloaded the zip file)
+
 $conda create --name 'kincore-standalone2' python=3.8 pandas numpy biopython hmmer --channel conda-forge --channel bioconda
 
 $conda activate kincore-standalone2
