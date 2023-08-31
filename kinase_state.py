@@ -222,8 +222,7 @@ def identify_state(args):
             shortstate=shortstate.replace("-","")
             
             # output string
-            introstring= (f'{kinase:14} '
-                          f'{shortfilename:{filenamelen}} '
+            introstring= (f'{shortfilename:{filenamelen}} '
                           f'{conf_df.at[index, "Model_id"]:2.0f} '
                           f'{conf_df.at[index, "Chain_id"]:<4} '
                           f'{shortstate:<44}  '
@@ -329,7 +328,7 @@ if __name__ == '__main__':
             if "#" in errorstring: ERROR.write(errorstring)
 
     elif len(pdbfilename)>3:
-        (filename,result,errorstring)=identify_state((pdbfilename, hmm_loc, lenpdbfilename))
+        (filename,result,errorstring)=identify_state((pdbfilename, hmm_loc, 0))
         if result.endswith('\n'):
             print(result,end='')
         else:
