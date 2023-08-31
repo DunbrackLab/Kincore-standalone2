@@ -15,8 +15,11 @@ $python3 kinase_state.py -h
 
 # To run Kincore-standalone2 for a single protein structure, use these commands:
 $python3 kinase_state.py 1ol5.cif
+
 $python3 kinase_state.py 1ol5.pdb
+
 $python3 kinase_state.py 1ol5.cif.gz
+
 $python3 kinase_state.py 1ol5.pdb.gz
 
 # To run Kincore-standalone2 on a set of structures, place the filenames (or full paths plus the filenames) in a file with the extension ".txt" and give this command:
