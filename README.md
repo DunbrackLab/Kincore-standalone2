@@ -27,6 +27,7 @@ $python3 kinase_state.py list.txt > output.txt
 
 ## The output of Kincore-standalone2 consists of 5 lines for each kinase structure:
 $python3 kinase_state.py 1ol5.cif
+
 1ol5  0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family CAMK  hmm CAMK     score  271.0   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
 
 1ol5  0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K162  Glu.E181  Glu4.Q185 HPN7.L196  XHRD.I253  HRD.H254  Arg.R255  XDFG.A273  Asp.D274  Phe.F275  Gly.G276  DFG6.V279 APE9.G291 APE.E299 
