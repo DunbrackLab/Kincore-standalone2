@@ -128,7 +128,7 @@ def compute_distance(pdbfilename,index,conf_df,structure):
         dist1=distance_atoms(pdbfilename,conf_df.at[index,'Model_id'],conf_df.at[index,'Chain_id'],\
                              conf_df.at[index,'XHRD_num'],conf_df.at[index,'DFG6_num'],'N','O',structure)      # backbone-backbone hydrogen bond
         dist2=distance_atoms(pdbfilename,conf_df.at[index,'Model_id'],conf_df.at[index,'Chain_id'],\
-                             conf_df.at[index,'XHRD_num'],conf_df.at[index,'DFG6_num'],'N','O',structure)      # backbone-backbone hydrogen bond
+                             conf_df.at[index,'XHRD_num'],conf_df.at[index,'DFG6_num'],'O','N',structure)      # backbone-backbone hydrogen bond
         if dist1<mindist: mindist=dist1
         if dist2<mindist: mindist=dist2
         conf_df.at[index,'DFG6-XHRD-dis']=mindist
