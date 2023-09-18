@@ -16,3 +16,10 @@ Run the files in this directory using these steps:
 
   diff test.out test2.out
 
+5 Isolate different data:
+
+  grep Labels test2.out
+  grep Residues test2.out
+  grep Dihedrals test2.out
+  grep Distances test2.out
+  
