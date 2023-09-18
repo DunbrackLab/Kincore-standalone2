@@ -1,0 +1,10 @@
+AGC_AKT1_89.69_activePDB_5MSA_ortholog_model2.cif
+CAMK_AURKA_86.73_activePDB_90MSA_family_model2.cif
+CK1_CSNK1D_96.53_activeAF2_5MSA_family_model1.cif
+CMGC_CDK2_80.16_activeAF2_5MSA_family_model2.cif
+NEK_NEK2_71.62_activeAF2_5MSA_family_model1.cif
+OTHER_PINK1_85.65_PDB70_10000MSA_uniref90_model1.cif
+STE_PAK1_91.45_activePDB_5MSA_family_model1.cif
+TKL_BRAF_37.01_activePDB_5MSA_ortholog_model1.cif
+TYR_SRC_93.36_activeAF2_5MSA_family_model1.cif
+test.txt

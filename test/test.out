@@ -1,0 +1,56 @@
+AGC_AKT1       AGC_AKT1_89.69_activePDB_5MSA_ortholog_model2     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family AGC   hmm AGC      score  338.5   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+AGC_AKT1       AGC_AKT1_89.69_activePDB_5MSA_ortholog_model2     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K179  Glu.E198  Glu4.L202 HPN7.L213  XHRD.V271  HRD.Y272  Arg.R273  HRDAsp.D274 XDFG.T291  Asp.D292  Phe.F293  Gly.G294  DFG6.K297 APE9.G311 APE.E319 
+AGC_AKT1       AGC_AKT1_89.69_activePDB_5MSA_ortholog_model2     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   6.26 Lys_Phe  13.15 Lys_Glu   8.68 SaltBr   2.68 DFG6_XHRD   2.87 APE9_Arg   3.78 Spine    3.75   3.39   3.90   3.90
+AGC_AKT1       AGC_AKT1_89.69_activePDB_5MSA_ortholog_model2     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -114.62 -167.38 D   40.57   67.78 -152.84   11.22 F  -78.23   20.61  301.26  -96.00 G  -56.98  -40.88
+AGC_AKT1       AGC_AKT1_89.69_activePDB_5MSA_ortholog_model2     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+CAMK_AURKA     CAMK_AURKA_86.73_activePDB_90MSA_family_model2    0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family CAMK  hmm CAMK     score  274.0   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+CAMK_AURKA     CAMK_AURKA_86.73_activePDB_90MSA_family_model2    0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K162  Glu.E181  Glu4.Q185 HPN7.L196  XHRD.I253  HRD.H254  Arg.R255  HRDAsp.D256 XDFG.A273  Asp.D274  Phe.F275  Gly.G276  DFG6.V279 APE9.G291 APE.E299 
+CAMK_AURKA     CAMK_AURKA_86.73_activePDB_90MSA_family_model2    0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   5.53 Lys_Phe  14.88 Lys_Glu   9.23 SaltBr   2.71 DFG6_XHRD   2.96 APE9_Arg   3.55 Spine    3.52   3.47   3.94   3.94
+CAMK_AURKA     CAMK_AURKA_86.73_activePDB_90MSA_family_model2    0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -132.48 -179.84 D   57.24   70.17 -153.76   11.51 F  -79.24   16.40  282.35 -102.99 G  -58.05  -32.04
+CAMK_AURKA     CAMK_AURKA_86.73_activePDB_90MSA_family_model2    0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+CK1_CSNK1D     CK1_CSNK1D_96.53_activeAF2_5MSA_family_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family CK1   hmm CK1      score  414.0   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+CK1_CSNK1D     CK1_CSNK1D_96.53_activeAF2_5MSA_family_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K38   Glu.E52   Glu4.Y56  HPN7.I68   XHRD.I125  HRD.H126  Arg.R127  HRDAsp.D128 XDFG.I148  Asp.D149  Phe.F150  Gly.G151  DFG6.K154 APE9.G175 APE.N183 
+CK1_CSNK1D     CK1_CSNK1D_96.53_activeAF2_5MSA_family_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   6.01 Lys_Phe  14.74 Lys_Glu   8.12 SaltBr   2.69 DFG6_XHRD   2.83 APE9_Arg   3.56 Spine    3.74   3.45   3.37   3.74
+CK1_CSNK1D     CK1_CSNK1D_96.53_activeAF2_5MSA_family_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -133.52  176.85 D   64.10   66.27 -157.47   22.24 F  -77.63   11.73  293.67  -82.14 G  -60.56  -26.09
+CK1_CSNK1D     CK1_CSNK1D_96.53_activeAF2_5MSA_family_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+CMGC_CDK2      CMGC_CDK2_80.16_activeAF2_5MSA_family_model2      0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family CMGC  hmm CMGC     score  307.2   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+CMGC_CDK2      CMGC_CDK2_80.16_activeAF2_5MSA_family_model2      0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K33   Glu.E51   Glu4.L55  HPN7.L66   XHRD.L124  HRD.H125  Arg.R126  HRDAsp.D127 XDFG.A144  Asp.D145  Phe.F146  Gly.G147  DFG6.R150 APE9.V164 APE.E172 
+CMGC_CDK2      CMGC_CDK2_80.16_activeAF2_5MSA_family_model2      0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   6.87 Lys_Phe  15.12 Lys_Glu   8.72 SaltBr   2.75 DFG6_XHRD   2.88 APE9_Arg   3.24 Spine    3.80   3.64   4.01   4.01
+CMGC_CDK2      CMGC_CDK2_80.16_activeAF2_5MSA_family_model2      0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -140.16  178.48 D   51.28   62.88 -153.85   23.74 F  -73.79   18.94  281.96 -108.27 G  -61.73  -34.21
+CMGC_CDK2      CMGC_CDK2_80.16_activeAF2_5MSA_family_model2      0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+NEK_NEK2       NEK_NEK2_71.62_activeAF2_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family NEK   hmm NEK      score  372.1   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+NEK_NEK2       NEK_NEK2_71.62_activeAF2_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K37   Glu.E55   Glu4.L59  HPN7.Y70   XHRD.L138  HRD.H139  Arg.R140  HRDAsp.D141 XDFG.G158  Asp.D159  Phe.F160  Gly.G161  DFG6.R164 APE9.G178 APE.E186 
+NEK_NEK2       NEK_NEK2_71.62_activeAF2_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   6.87 Lys_Phe  14.63 Lys_Glu  10.00 SaltBr   3.28 DFG6_XHRD   2.84 APE9_Arg   3.39 Spine    3.58   3.56   3.90   3.90
+NEK_NEK2       NEK_NEK2_71.62_activeAF2_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -133.95 -173.40 D   54.79   72.42 -162.45   27.92 F  -82.83   18.74  289.02 -102.84 G  -61.40  -26.12
+NEK_NEK2       NEK_NEK2_71.62_activeAF2_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+OTHER_PINK1    OTHER_PINK1_85.65_PDB70_10000MSA_uniref90_model1  0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family OTHER hmm PINK1    score  604.6   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+OTHER_PINK1    OTHER_PINK1_85.65_PDB70_10000MSA_uniref90_model1  0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K219  Glu.E240  Glu4.A244 HPN7.V277  XHRD.A359  HRD.H360  Arg.R361  HRDAsp.D362 XDFG.A383  Asp.D384  Phe.F385  Gly.G386  DFG6.L389 APE9.G409 APE.E417 
+OTHER_PINK1    OTHER_PINK1_85.65_PDB70_10000MSA_uniref90_model1  0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   9.59 Lys_Phe  14.51 Lys_Glu   7.72 SaltBr   2.77 DFG6_XHRD   2.78 APE9_Arg   4.10 Spine    4.07   9.25   3.86   4.07
+OTHER_PINK1    OTHER_PINK1_85.65_PDB70_10000MSA_uniref90_model1  0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -131.40  170.11 D   65.48   83.36 -153.11  -32.07 F  -88.40   10.85  283.16 -106.38 G  -63.31  -10.14
+OTHER_PINK1    OTHER_PINK1_85.65_PDB70_10000MSA_uniref90_model1  0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+STE_PAK1       STE_PAK1_91.45_activePDB_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family STE   hmm STE      score  325.3   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+STE_PAK1       STE_PAK1_91.45_activePDB_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K299  Glu.E315  Glu4.M319 HPN7.Y330  XHRD.I386  HRD.H387  Arg.R388  HRDAsp.D389 XDFG.T406  Asp.D407  Phe.F408  Gly.G409  DFG6.A412 APE9.G426 APE.E434 
+STE_PAK1       STE_PAK1_91.45_activePDB_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   6.11 Lys_Phe  15.44 Lys_Glu   9.51 SaltBr   2.92 DFG6_XHRD   2.85 APE9_Arg   3.15 Spine    3.75   3.62   3.75   3.75
+STE_PAK1       STE_PAK1_91.45_activePDB_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -135.46 -178.42 D   62.63   69.09 -161.65   13.47 F  -80.63   12.54  289.37 -100.36 G  -59.40  -25.50
+STE_PAK1       STE_PAK1_91.45_activePDB_5MSA_family_model1       0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+TKL_BRAF       TKL_BRAF_37.01_activePDB_5MSA_ortholog_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family TKL   hmm TKL      score  280.5   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+TKL_BRAF       TKL_BRAF_37.01_activePDB_5MSA_ortholog_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K483  Glu.E501  Glu4.L505 HPN7.F516  XHRD.I573  HRD.H574  Arg.R575  HRDAsp.D576 XDFG.G593  Asp.D594  Phe.F595  Gly.G596  DFG6.T599 APE9.G615 APE.E623 
+TKL_BRAF       TKL_BRAF_37.01_activePDB_5MSA_ortholog_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   6.58 Lys_Phe  14.00 Lys_Glu   8.73 SaltBr   2.81 DFG6_XHRD   2.85 APE9_Arg   5.70 Spine    3.81   3.50   3.73   3.81
+TKL_BRAF       TKL_BRAF_37.01_activePDB_5MSA_ortholog_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -136.42 -168.61 D   54.52   78.24 -159.87   16.01 F  -91.38   15.30  291.45  -89.16 G  -61.05  -27.93
+TKL_BRAF       TKL_BRAF_37.01_activePDB_5MSA_ortholog_model1     0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+TYR_SRC        TYR_SRC_93.36_activeAF2_5MSA_family_model1        0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Labels    family TYR   hmm TYR      score  322.1   Active   DFGin    BLAminus Chelix-in   SaltBr-in   ActLoopNT-in   ActLoopCT-in   Spine-in  
+TYR_SRC        TYR_SRC_93.36_activeAF2_5MSA_family_model1        0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Residues  Lys.K298  Glu.E313  Glu4.M317 HPN7.L328  XHRD.V386  HRD.H387  Arg.R388  HRDAsp.D389 XDFG.A406  Asp.D407  Phe.F408  Gly.G409  DFG6.R412 APE9.F427 APE.E435 
+TYR_SRC        TYR_SRC_93.36_activeAF2_5MSA_family_model1        0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Distances Glu4_Phe   6.44 Lys_Phe  14.35 Lys_Glu   7.89 SaltBr   2.64 DFG6_XHRD   2.87 APE9_Arg   6.64 Spine    3.90   3.86   3.83   3.90
+TYR_SRC        TYR_SRC_93.36_activeAF2_5MSA_family_model1        0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Dihedrals X -119.99 -160.43 D   36.59   68.62 -159.63   21.88 F  -80.84   15.85  293.28  -86.25 G  -58.40  -36.12
+TYR_SRC        TYR_SRC_93.36_activeAF2_5MSA_family_model1        0 A    Active_DFGin_BLAminus_SBin_NTin_CTin          Ligands   No_ligand    None
+
+NotPDB
+
